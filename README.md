@@ -8,7 +8,7 @@ Linguagem front-end: HTML5 com React, Angular ou ExtJS
 ```
 IDE: VisualStudioCode
 
-#Tutorial Execução
+# Tutorial Execução
 
 ## XAMP:
 ```
@@ -22,7 +22,7 @@ IDE: VisualStudioCode
 ```
 5 - Execute o script adicionado no repositório 
 
-##Executar o Projeto:
+## Executar o Projeto:
 
 ```
 1 - Após os passos acima, na IDE execute a classe FuncionarioscrudApplication.java 
