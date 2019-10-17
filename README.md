@@ -4,7 +4,7 @@ CRUD de Funcionários desenvolvido para o teste desenvolvedor da empresa CISS
 ```
 Linguagem back-end: Java
 ```
-Linguagem front-end: HTML5 com React, Angular ou ExtJS
+Linguagem front-end:  React
 ```
 IDE: VisualStudioCode
 
