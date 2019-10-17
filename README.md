@@ -24,7 +24,7 @@ IDE: VisualStudioCode
 ```
 6 - Após os passos acima, na IDE execute a classe FuncionarioscrudApplication.java 
 ```
-7 - Execute o comando npm start na pasta do projeto que contém o front ( my-app) para abrir as telas
+7 - Execute o comando npm start na pasta do projeto que contém o front ( my-app) para abrir as telas (é necessário ter o npm instalado)
 
 
 
