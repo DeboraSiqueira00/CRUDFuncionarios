@@ -10,7 +10,6 @@ IDE: VisualStudioCode
 
 # Tutorial Execução
 
-## XAMP:
 ```
 1 - Realize a Instalação do Xamp
 ```
@@ -22,12 +21,10 @@ IDE: VisualStudioCode
 ```
 5 - Execute o script adicionado no repositório 
 
-## Executar o Projeto:
-
 ```
-1 - Após os passos acima, na IDE execute a classe FuncionarioscrudApplication.java 
+6 - Após os passos acima, na IDE execute a classe FuncionarioscrudApplication.java 
 ```
-2 - Execute o comando npm start na pasta do projeto que contém o front ( my-app) para abrir as telas
+7 - Execute o comando npm start na pasta do projeto que contém o front ( my-app) para abrir as telas
 
 
 
