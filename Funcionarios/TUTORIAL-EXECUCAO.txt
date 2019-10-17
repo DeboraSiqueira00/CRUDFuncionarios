@@ -1,0 +1,22 @@
+--------SIGA OS SEGUINTES PASSOS PARA EXECUTAR O SISTEMA FUNCIONÁRIOS:---------------------
+
+TENHA INSTALADO:
+- XAMP
+
+APÓS INSTALADO DIGITE "localhost" NO NAVEGADOR
+SELECIONE A OPÇÃO "phpMyAdmin"
+EXECUTE O SCRIPT ADICIONADO NO REPOSITÓRIO
+
+EXECUTE A CLASSE FuncionarioscrudApplication.java 
+EXECUTAR O COMANDO npm start NA PASTA DO PROJETO DO FRONT para abrir as telas
+
+
+IDE UTILIZADA: VisualStudioCode
+
+
+
+ATT.
+Débora dos Santos e Siqueira
+
+
+

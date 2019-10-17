@@ -1,0 +1,15 @@
+.form_left {
+  float: left;
+  margin-left: 250px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+fieldset {
+  border-radius: 100px;
+  border: 1px solid #ccc;
+  text-align: left;
+  color: #444;
+  margin-bottom: 8px;
+}
+
