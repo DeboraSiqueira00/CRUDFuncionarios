@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - FuncionarioscrudApplication",
+            "request": "launch",
+            "mainClass": "com.debora.funcionarioscrud.FuncionarioscrudApplication",
+            "projectName": "funcionarioscrud"
+        }
+    ]
+}
